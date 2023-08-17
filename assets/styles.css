@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+/* font-family: 'Dancing Script', cursive; */
+/* font-family: 'Dancing Script', cursive; */
+
+*{
+    padding: 0px;
+}
+
+body {
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    background-color: #fdf5ea !important;
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px !important;
+    font-weight: 600 !important;
+}
+
+p {
+    margin: 0px !important;
+    line-height: 30px;
+}
+
+nav {
+    /* margin-top: 30px; */
+}
+
+.navbar-nav .nav-link {
+    font-family: 'Dancing Script', cursive;
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-size: 16px;
+}
+
+.logo-upper-text {
+    font-family: 'Dancing Script', cursive;
+    font-weight: 600;
+    line-height: 8px;
+}
+
+.logo-down-text {
+    line-height: 8px;
+    font-size: 12px;
+}
+
+.navbar-light .navbar-toggler {
+    border: none;
+}
+
+.navbar-button {
+    border: none;
+    outline: none;
+    background-color: transparent;
+}
+
+.menu-item button span img {
+    width: 14px;
+}
+
+.logo {
+    width: 200px;
+}
+
+/* ------------------------------- */
+
+.para{
+    width: 700px;
+    margin: auto !important;
+    line-height: 30px;
+}
+
+.bg-image{
+    height: 500px;
+    width: 100%;
+    object-fit: cover;
+}
+
+
+/* -------------------------------------- */
+
+footer {
+    background-color: #fff9f2;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.footer-nav .nav-link {
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.footer-icons {
+    gap: 50px;
+}
+
+.footer-img {
+    width: 65px;
+}
+
+.links a {
+    text-decoration: underline;
+    color: black;
+    font-weight: bold;
+}
